@@ -4,6 +4,8 @@
 
 Library and command line utility for processing and extracting assets for the 3D/ADV engine written by Graeme Ing. This engine was used for the games [Normality](https://www.mobygames.com/game/normality) and [Realms of the Haunting](https://www.mobygames.com/game/dos/realms-of-the-haunting), both by Gremlin Interactive ltd.
 
+**This library is currently under heavy development and doesn't do much yet.**
+
 ## Features
 
 This library can extract the following assets:
