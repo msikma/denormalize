@@ -24,6 +24,10 @@ The work in this library is based on reverse engineering done by Denzquix. He wa
 
 * [Unravelling the secrets of "Normality"](https://web.archive.org/web/20221014221459/http://saltworld.net/forums/topic/12496-unravelling-the-secrets-of-normality-1996/) (2012, December 16) - Denzquix, Salt World Forums. [Original.](http://saltworld.net/forums/topic/12496-unravelling-the-secrets-of-normality-1996/)
 
+An in-browser file viewer was developed by him as well:
+
+* [Normality file viewer](https://github.com/radishengine/denormalize) - Github, radishengine/denormalize.
+
 ## License
 
 MIT license.
