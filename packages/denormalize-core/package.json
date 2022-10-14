@@ -1,0 +1,19 @@
+{
+  "name": "denormalize-core",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Library for processing and extracting assets for the 3D/ADV engine",
+  "main": "index.js",
+  "scripts": {
+  },
+  "homepage": "https://github.com/msikma/denormalize",
+  "repository": "https://github.com/msikma/denormalize",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "dependencies": {
+    "bmp-js": "^0.1.0",
+    "md5-file": "^5.0.0",
+    "diff": "^5.1.0",
+    "sox-audio": "git://github.com/msikma/sox-audio.git"
+  }
+}

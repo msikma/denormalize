@@ -1,0 +1,17 @@
+{
+  "name": "denormalize-cli",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Command line utility for processing and extracting assets for the 3D/ADV engine",
+  "main": "index.js",
+  "scripts": {
+  },
+  "homepage": "https://github.com/msikma/denormalize",
+  "repository": "https://github.com/msikma/denormalize",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "denormalize-core": "^0.1.0"
+  }
+}
