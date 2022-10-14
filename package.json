@@ -1,0 +1,36 @@
+{
+  "name": "denormalize",
+  "version": "0.1.0",
+  "description": "Library for processing and extracting assets for the 3D/ADV engine",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "files": [
+    "bin/",
+    "packages/",
+    "package.json",
+    "license.md",
+    "readme.md"
+  ],
+  "keywords": [
+    "Normality",
+    "Realms of the Haunting"
+  ],
+  "bin": {
+    "denormalize.js": "./bin/denormalize.js"
+  },
+  "homepage": "https://github.com/msikma/denormalize",
+  "repository": "https://github.com/msikma/denormalize",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "engines" : { 
+    "node" : ">=16.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "denormalize-cli": "^0.1.0"
+  }
+}
